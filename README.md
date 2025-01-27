@@ -1,6 +1,4 @@
-Tabii, işte `README.md` dosyasının düzenlenmiş hali:
 
-```markdown
 # WhatsApp Message Automation Script
 
 ## Overview
@@ -109,7 +107,3 @@ You can test the script by:
 
 If you wish to contribute to this project, feel free to fork the repository and submit a pull request. Any improvements, especially on optimizing message handling and additional features, are welcome.
 
-## License
-
-This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as needed.
-```
